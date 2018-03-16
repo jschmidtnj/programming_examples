@@ -1,0 +1,5 @@
+Adam:Ed Sheeran,Eminem,Katy Perry,Rihanna
+Emily:Bruno Mars,Miles Davis,Taylor Swift
+Joshua:Ed Sheeran,Eminem,Miles Davis
+Justin:Kendrick Lamar,Madonna,Pink
+Michelle:Justin Bieber,Katy Perry
