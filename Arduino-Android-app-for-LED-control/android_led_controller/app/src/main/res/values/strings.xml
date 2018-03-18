@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hue_view_content_desc">Hue image</string>
+    <string name="hue_cursor_content_desc">Hue image cursor</string>
+    <string name="color_picker_content_desc">Color picker image</string>
+    <string name="arrow_content_desc">Arrow image</string>
+
+    <string name="app_name">LED Controller</string>
+
+    <string name="default_ip">192.168.1.2</string>
+    <string name="settings_ip">settings_ip</string>
+
+    <integer name="default_port">31337</integer>
+    <string name="settings_port">settings_port</string>
+
+    <integer name="default_color">0xFFFFFF</integer>
+    <string name="settings_color">settings_color</string>
+
+    <integer name="default_intensity">100</integer>
+    <string name="settings_intensity">settings_intensity</string>
+
+    <integer name="default_flash">100</integer>
+    <string name="settings_flash">settings_flash</string>
+</resources>
