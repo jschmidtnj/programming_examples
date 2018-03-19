@@ -17,7 +17,7 @@ For some of my past hackathon projects, take a look at my devpost, which shows t
 
 ## Pictures:
 
-### MEAM Authentication app:
+### MEAN Authentication app:
 ![alt text](https://raw.githubusercontent.com/jschmidtnj/programming_examples/master/pictures/MEAN_authentication_aop.JPG)
 ![alt text](https://raw.githubusercontent.com/jschmidtnj/programming_examples/master/pictures/meanauthenticationapp_1.JPG)
 ![alt text](https://raw.githubusercontent.com/jschmidtnj/programming_examples/master/pictures/meanauthenticationapp_2.JPG)
