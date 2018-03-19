@@ -3,7 +3,7 @@ These are examples of past programming experience.
 
 So here you will find my best examples of working with Java, Python, and Android apps. For a complex Java app, take a look at the Java Restaurant manager. It is written with JFrame so it has a graphical user interface, and the app allows for orders to be made quickly.
 
-For a complex Android app, see my Android Arduino controller app, which allows users to pick the light intensity and color of the rgb strip, and see incoming and outgoing messages in real time ().
+For a complex Android app, see my Android Arduino controller app, which allows users to pick the light intensity and color of the rgb strip, and see incoming and outgoing messages in real time (https://github.com/jschmidtnj/programming_examples/tree/master/Arduino-Android-app-for-LED-control).
 
 For a MEAN-stack application, look at my MEAN stack repo: https://github.com/jschmidtnj/MEAN_Authentication_Application. This app is used for login and logout services, and the mongodb database stores a hashed password, the name of the user, and the email of the user. The site is also secure, so that people cannot break into a user's dashboard.
 
